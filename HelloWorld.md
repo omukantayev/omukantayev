@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Olzhas Mukantaye
+- 👋 Hi, I’m Olzhas Mukantayev
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Robotics Operating System, SolidWorks, Python 3, TensorFlow and JavaScript
 - 💞️ I’m looking to collaborate on any interesting projects that includes programming 
